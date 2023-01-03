@@ -4,7 +4,7 @@
 
 This is a page I created for Task 2 in the CSS course as part of the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
 
-The aim is to create the same look as the Google Home Page in 1998 using HTML and inline CSS; buttons/links do not need to work.
+The aim is to create the same look as the Google Home Page in 1998 using HTML and ***inline CSS***; buttons/links do not need to work.
 
 ## Preview
 
