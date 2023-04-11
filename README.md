@@ -28,7 +28,7 @@ The aim is to create the same look as the Google Home Page in 1998 using HTML an
 
 ### My patika.dev profile
 
-<a href="https://app.patika.dev/hulyamartli"><img src="https://lh3.googleusercontent.com/pw/AMWts8DDaslCyOx3O92hkQj2cbszknAS3WSaQVoch6Vhy6esCHip8gWN6lOIK-mtard_bBQDrgWVeOIsfoPT3V-bMFtq14Ju5tXG2KTDVhu0myNbQyJbkFSDcvdr_VnTXBFJ2Q22pUGHAnPX7o5cOdeV5ulQFQ=w293-h134-no?authuser=0" width="200" alt="PatikaDev Logo"></a>
+<a href="https://app.patika.dev/hulyamartli"><img src="https://app.patika.dev/staticFiles/newPatikaLogo.svg" width="100" alt="PatikaDev Logo"></a>
 
 ## License
 
